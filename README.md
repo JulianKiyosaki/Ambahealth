@@ -2,7 +2,7 @@
 
 Asplecius adalah aplikasi Android sederhana yang menunjukkan kekuatan *on-device machine learning* menggunakan TensorFlow Lite (TFLite). Aplikasi ini memungkinkan pengguna untuk memilih gambar dari galeri perangkat mereka dan kemudian memprosesnya menggunakan model TFLite yang telah diintegrasikan. Proyek ini bertujuan untuk menjadi contoh dasar dan titik awal bagi para pengembang yang tertarik untuk menjelajahi TFLite di Android.
 
-![Screenshot Aplikasi Asplecius](https://via.placeholder.com/300x600.png?text=Screenshot+Aplikasi+Anda)
+![Logo Asclepius](./assets/asclepius.jpg)
 
 ## ✨ Fitur
 
