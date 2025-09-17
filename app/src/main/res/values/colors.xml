@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="button_background">#374785</color>
+    <color name="fresh">#A4DDED</color>
+    <color name="text_primary">#212121</color>
+    <color name="colorPrimary">#36384C</color>
+    <color name="colorPrimaryVariant">#2A2D38</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="tint_danger">#FF4C4C</color>
+    <color name="glass_color">#66FFFFFF</color>
+    <color name="glass_stroke">#1A000000</color>
+    <color name="glass_card_stroke">#1AFFFFFF</color>
+    <color name="divider_color">#10000000</color>
+    <color name="colorPrimaryLight">#B3FF5722</color>
+    <color name="soft_gradient_start">#FFF8F9FF</color>
+    <color name="soft_gradient_center">#FFEFF2FF</color>
+    <color name="soft_gradient_end">#FFE6F0FF</color>
+</resources>
