@@ -34,7 +34,7 @@ Untuk menjalankan proyek ini di lingkungan pengembangan Anda, ikuti langkah-lang
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/NAMA_USER_ANDA/asplecius.git](https://github.com/NAMA_USER_ANDA/asplecius.git)
+    git clone [https://github.com/JulianKiyosaki/Ambahealth.git](https://github.com/JulianKiyosaki/Ambahealth.git)
     ```
 2.  **Buka proyek di Android Studio:**
     * Pilih `File` > `Open`
